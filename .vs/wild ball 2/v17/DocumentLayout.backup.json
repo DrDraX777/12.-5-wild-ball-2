@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|c:\\users\\drdra\\desktop\\unitylesson\\12.5 wild ball 2\\wild ball 2\\assets\\scripts\\kinematicpusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kinematicpusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|c:\\users\\drdra\\desktop\\unitylesson\\12.5 wild ball 2\\wild ball 2\\assets\\scripts\\periodicanimatortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\periodicanimatortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\assets\\scripts\\playerinteractionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteractionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B2F17-E13C-B56F-A97C-9BC6D727D438}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KinematicPusher.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\KinematicPusher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KinematicPusher.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\KinematicPusher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KinematicPusher.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:48:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeriodicAnimatorTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PeriodicAnimatorTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PeriodicAnimatorTrigger.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PeriodicAnimatorTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PeriodicAnimatorTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:29:16.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:17:13.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInteractionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerInteractionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteractionHandler.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerInteractionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteractionHandler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:13:27.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:06:24.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\drdra\\Desktop\\unitylesson\\12.5 Wild Ball 2\\wild ball 2\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:05:38.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
